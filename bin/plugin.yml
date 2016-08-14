@@ -1,0 +1,6 @@
+name: ExplosionProtect
+version: 1.0
+author: Vik1395
+description: A plugin that Stops explosion if it is close to a chest.
+
+main: me.vik1395.ExplosionProtect.Main
